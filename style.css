@@ -67,6 +67,45 @@ body {
     }
   }
 
+ 
+ .main img {
+max-width: 30%;
+padding-left: 35%;
+  }
+
+  .Rating h1{
+padding-left: 39%;
+  }
+ 
+  .Rating h3 {
+    color: #5e5b5b;
+    font-weight: lighter;
+    padding-left: 40%;
+  }
+
+ .main {
+padding-top: 2%;
+  }
+  
+.main h2 {
+  padding-left: 45%;
+}
+
+  .main h3 {
+    padding-left: 46%;
+    color: #5e5b5b;
+    font-weight: lighter;
+  }
+  
+  .Ingredients h3{
+    padding-left: 0%;
+    color: black;
+  }
+
+.Ingredients {
+  padding-left: 36%;
+  font-weight: lighter;
+}
 
   .grid {
     display: grid;
